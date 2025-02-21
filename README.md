@@ -1,8 +1,10 @@
-# My App
+# shadcn-vue-template
 
 ## Description
 
-`My App` is a modern web application built using **Vue 3**, **Tailwind CSS**, and **Vite**. The app uses **Pinia** for state management, **Vue Router** for routing, and **Shadcn-Vue** for UI components. It provides a fast and responsive user experience with optimized build configurations.
+
+
+`shadcn-vue-template` is a modern web application built using **Vue 3**, **Tailwind CSS**, and **Vite**. The app uses **Pinia** for state management, **Vue Router** for routing, and **Shadcn-Vue** for UI components. It provides a fast and responsive user experience with optimized build configurations.
 
 ## Features
 
@@ -20,6 +22,13 @@
 ### Prerequisites
 
 Ensure you have **Node.js** (>=16.x) installed.
+recommend node v20.18.3
+recommend npm 10.8.2
+Tailwind install
+npm install -D tailwindcss@3.4.0
+
+### add shadcn-vue components
+npx shadcn-vue@latest add button
 
 ### Steps
 
