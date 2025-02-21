@@ -18,6 +18,9 @@
 - **Lucide Vue**: A Vue component library of Lucide icons.
 
 ## Installation
+init shadcn-vue
+npx shadcn-vue@latest init
+
 
 ### Prerequisites
 
